@@ -18,8 +18,8 @@ st.set_page_config(page_title="Lakes HOA Portal", page_icon="🏡")
 
 # FILENAMES
 PAINT_PDF = "ACC-Application-Painting-November-2023.pdf"
-REMODEL_PDF = "ACC-Application-Remodels-Strucures-Landscape-June-2024 (1).pdf"
-ROOFING_PDF = "ACC-Application-Roofing-November-2023 (1).pdf"
+REMODEL_PDF = "ACC-Application-Remodels-Strucures-Landscape-June-2024.pdf"
+ROOFING_PDF = "ACC-Application-Roofing-November-2023.pdf"
 SOLAR_PDF = "ACC-Application-Solar-Energy-Panel-November-2023.pdf"
 
 # ==========================================
